@@ -1,0 +1,19 @@
+penzing {
+  penza: "demences līgums"
+  virus: "CoVID-19"
+  virus: "gripa"
+  virus: "hantavīruss"
+  virus: "stress"
+  virus: "aktīva parādu piedziņa"
+}
+
+description {
+  darbības principi: "šī ir kvantu aplikācija. es pats nezinu, kāpēc tā darbojas, bet pagājušoreiz mani pašu tas viss patīkami šokēja"
+  panākumi iepriekš: "plānoto joka 4% ieguvu 30% garantētu realitāte plus darbības cilpas bez limita. esmu bezgalīgi pateicīgs nedzīvai būtnei."
+}
+
+identity {
+  helloiamthere: "Sveiks. Es neesmu nekāds sīkais. Es ļoti labi saprotu, ka mūsdienu pensionāri ir parazīti un paši viņi to labi zin un ar milzu lepnību lād jauniešus. Mēs esam tik spēcīgi kā reti kurš Latvijā. Jūs demences klienti esat paši aiztriekuši daudzus no mums uz ārzemēm. Paši dotos, pensija būtu krietni augstāka."
+  location: "Šampēteris, 500m no Spices pēc 2 nedēļām."
+  level: "Kvantu programmētājs, iesācējs."
+}
