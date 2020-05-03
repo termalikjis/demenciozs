@@ -17,3 +17,13 @@ identity {
   location: "Šampēteris, 500m no Spices pēc 2 nedēļām."
   level: "Kvantu programmētājs, iesācējs."
 }
+
+reason {
+  pamats: "Kāda vispār jēga no pensionāriem? Viss, ko viņi paveic, iztērē valsts naudu, kuru varēja izmantot darba algas celšanai, no kā uzlabotos arī dzimstība, mazinātos bezdarbs. Turklāt tendence joprojām turpinās."
+  rīcība: "nosūtīt pensiju sistēmu uz elli, ar noteikumu, ka tās nepārsniedz pusi no minimālās mēnešalgas un tiek dzerts šņabis"
+}
+
+reason2 {
+  lūgums: "man ir nepieciešams 1 ziedojums BTC ik mēnesi. esmu to pelnījis ar šo projektu. tās ir manas stīgu tiesības."
+  iemesls: "tiešām. pensionāri nav bijuši saprātīgi. filmēt viņiem vajadzēja visu pēc kārtas vai vismaz investēt..."
+}
