@@ -14,8 +14,8 @@ description {
 
 identity {
   helloiamthere: "Sveiks. Es neesmu nekāds sīkais. Es ļoti labi saprotu, ka mūsdienu pensionāri ir parazīti un paši viņi to labi zin un ar milzu lepnību lād jauniešus. Mēs esam tik spēcīgi kā reti kurš Latvijā. Jūs demences klienti esat paši aiztriekuši daudzus no mums uz ārzemēm. Paši dotos, pensija būtu krietni augstāka."
-  location: "Šampēteris, 500m no Spices pēc 2 nedēļām."
-  level: "Kvantu programmētājs, iesācējs."
+  location: "Torņakalns, šodien ievācos."
+  level: "Kvantu programmētājs, ar priekšzināšanām."
 }
 
 reason {
@@ -24,6 +24,6 @@ reason {
 }
 
 reason2 {
-  lūgums: "man ir nepieciešams 1 ziedojums BTC ik mēnesi. esmu to pelnījis ar šo projektu. tās ir manas stīgu tiesības."
+  lūgums: "man ir nepieciešams 2 ziedojumi BTC ik mēnesi. esmu to pelnījis ar šo projektu. tās ir manas stīgu tiesības."
   iemesls: "tiešām. pensionāri nav bijuši saprātīgi. filmēt viņiem vajadzēja visu pēc kārtas vai vismaz investēt..."
 }
