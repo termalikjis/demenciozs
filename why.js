@@ -12,3 +12,9 @@
     x = xn;
   };
 };
+
+.$madness(penzing) var {
+	jobLastLeft(beforeAge=['20']);
+	jobAveragePay('<400$');
+	jobPersonallyRated('<1/2');
+};
